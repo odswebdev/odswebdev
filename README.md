@@ -1,5 +1,5 @@
 <h1 align="center">Привет! 👋 Я Дмитрий Orlov</h1>
-<h3 align="center">Front-End & Full-Stack Developer</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="center">
   📍 Саратов, Россия | 💼 Renovatio Soft
