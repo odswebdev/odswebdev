@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200" alt="Hello GIF"/>
-</p>
-
 <h1 align="center">Привет! 👋 Я Дмитрий Orlov</h1>
 <h3 align="center">Front-End & Full-Stack Developer</h3>
 
