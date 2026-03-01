@@ -25,15 +25,15 @@
 
 ## 🚀 Проекты
 
-### 🔹 [mixersstore](https://github.com/odswebdev/mixersstore)
-💡 Онлайн-магазин итальянских смесителей.  
-**Технологии:** React, Vite, Tailwind CSS, ESLint  
-**Особенности:** UX-фокус, чистая архитектура, быстрая загрузка.
-
 ### 🔹 [sanatorium-shipa-su](https://github.com/odswebdev/sanatorium-shipa-su)
 💡 Сайт санатория с современным интерфейсом.  
 **Технологии:** HTML, CSS, JavaScript  
 **Особенности:** Интерактивные элементы, удобная навигация.
+
+### 🔹 [mixersstore](https://github.com/odswebdev/mixersstore)
+💡 Онлайн-магазин итальянских смесителей.  
+**Технологии:** React, Vite, Tailwind CSS, ESLint  
+**Особенности:** UX-фокус, чистая архитектура, быстрая загрузка.
 
 ---
 
