@@ -25,11 +25,6 @@
 
 ## 🚀 Проекты
 
-### 🔹 [gizmobicycle](https://github.com/odswebdev/gizmobicycle)
-💡 Многоязычный сайт для продажи электробайков.  
-**Технологии:** React, Vite, Tailwind CSS  
-**Особенности:** Адаптивный дизайн, мультиязычность, красивый UI.
-
 ### 🔹 [mixersstore](https://github.com/odswebdev/mixersstore)
 💡 Онлайн-магазин итальянских смесителей.  
 **Технологии:** React, Vite, Tailwind CSS, ESLint  
