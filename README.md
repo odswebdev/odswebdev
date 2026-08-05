@@ -25,15 +25,18 @@
 
 ## 🚀 Проекты
 
-### 🔹 [sanatorium-shipa-su](https://github.com/odswebdev/sanatorium-shipa-su)
-💡 Сайт санатория с современным интерфейсом.  
-**Технологии:** HTML, CSS, JavaScript  
-**Особенности:** Интерактивные элементы, удобная навигация.
+### 🔹 [quiz-google-docs](https://github.com/odswebdev/quiz-google-docs)
+Квиз Google Docs Викторина по ИИ
+**Технологии:** HTML, CSS, JS
 
 ### 🔹 [mixersstore](https://github.com/odswebdev/mixersstore)
-💡 Онлайн-магазин итальянских смесителей.  
+Онлайн-магазин итальянских смесителей.  
 **Технологии:** React, Vite, Tailwind CSS, ESLint  
 **Особенности:** UX-фокус, чистая архитектура, быстрая загрузка.
+
+### 🔹 [millionaire-game](https://github.com/odswebdev/millionaire-game)
+Онлайн игра "Кто хочет стать миллионером" на NextJS 
+**Технологии:** React, NextJS, Vite, Tailwind CSS
 
 ---
 
