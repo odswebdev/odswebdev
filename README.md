@@ -26,7 +26,7 @@
 ## 🚀 Проекты
 
 ### 🔹 [quiz-google-docs](https://github.com/odswebdev/quiz-google-docs)
-Квиз Google Docs Викторина по ИИ
+Квиз Google Docs Викторина по ИИ.
 **Технологии:** HTML, CSS, JS
 
 ### 🔹 [mixersstore](https://github.com/odswebdev/mixersstore)
